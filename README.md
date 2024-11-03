@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katerina Campos Pizarro</h1>
-<h3 align="center">A Full Stack Node.js / Front-end Angular Developer from Valparaiso, Chile</h3>
+<h3 align="center">A Full Stack Node.js | Java | .NET / Front-end Angular Developer from Valparaiso, Chile</h3>
 🌱 I’m currently learning NestJS and UI Design<br>
 
 
