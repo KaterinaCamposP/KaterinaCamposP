@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katerina Campos Pizarro</h1>
-<h3 align="center">A Full Stack Web & Front-end Developer from Valparaiso, Chile</h3>
+<h3 align="center">A Full Stack Developer from Valparaiso, Chile</h3>
 
 
 
